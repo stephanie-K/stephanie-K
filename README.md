@@ -4,8 +4,9 @@ I don't code much in my role as a service designer but I was a software develope
 
 💬 Ask me about it if you are interested.
 
-I also volunteer for [**Code Your Future**](https://codeyourfuture.io/) - check them out, it's a great organsiation, teaching code to refugees and disadvantaged, maybe you can help too?
+I also volunteer for [**Code Your Future**](https://codeyourfuture.io/) - check them out, it's a great organsiation, teaching code to refugees and disadvantaged people, maybe you can help too?
 
+![code your future logo](cyf_brand.png)
 
 <!--
 **stephanie-K/stephanie-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
