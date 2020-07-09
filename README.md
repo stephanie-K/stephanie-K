@@ -1,8 +1,16 @@
-### Hi there 👋
+# Bonjour!
+
+I don't code much in my role as a service designer but I was a software developer before and code a lot these days on a personal project to create a [**Digital Skill tool for the East Renfrewshire Council**](https://blog.chezleskrus.com/2020/05/06/improving-digital-skills-building-a-tool-with-the-govuk-prototype-kit/).
+
+💬 Ask me about it if you are interested.
+
+I also volunteer for [**Code Your Future**](https://codeyourfuture.io/) - check them out, it's a great organsiation, teaching code to refugees and disadvantaged, maybe you can help too?
+
 
 <!--
 **stephanie-K/stephanie-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+### Hi there 👋
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
