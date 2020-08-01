@@ -1,6 +1,6 @@
 # Bonjour!
 
-I don't code much in my role as a service designer but I was a software developer before and code a lot these days on a personal project to create a [**Digital Skill tool for the East Renfrewshire Council**](https://blog.chezleskrus.com/2020/05/06/improving-digital-skills-building-a-tool-with-the-govuk-prototype-kit/).
+I don't code much in my role as a service designer but I was a software developer before and code a lot these days on a personal project to create a [**Digital Skill tool for the East Renfrewshire Council**](https://blog.chezleskrus.com/2020/08/01/improving-digital-skills-a-tool-using-the-gov-uk-prototype-kit-part-2/).
 
 💬 Ask me about it if you are interested.
 
