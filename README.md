@@ -1,6 +1,7 @@
 # Bonjour!
 
-I don't code much in my role as a service designer but I was a software developer before and code a lot these days on a personal project to create a [**Digital Skill tool for the East Renfrewshire Council**](https://blog.chezleskrus.com/2020/08/01/improving-digital-skills-a-tool-using-the-gov-uk-prototype-kit-part-2/).
+I don't code much in my role as a service designer but I was a software developer before. 
+I mostly use Github pages for various websites like for one of my various side-projects: [**Practioner Stories**](https://stephanie-k.github.io/practitioner-stories/) or I've used the GOVUK prototype kit to create a [**Digital Skill tool for the East Renfrewshire Council**](https://blog.chezleskrus.com/2020/08/01/improving-digital-skills-a-tool-using-the-gov-uk-prototype-kit-part-2/).
 
 💬 Ask me about it if you are interested.
 
