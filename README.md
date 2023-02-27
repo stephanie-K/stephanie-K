@@ -1,11 +1,12 @@
 # Bonjour!
 
 I don't code much in my role as a service designer but I was a software developer before. 
-I mostly use Github pages for various websites like for one of my various side-projects: [**Practioner Stories**](https://stephanie-k.github.io/practitioner-stories/) or I've used the GOVUK prototype kit to create a [**Digital Skill tool for the East Renfrewshire Council**](https://blog.chezleskrus.com/2020/08/01/improving-digital-skills-a-tool-using-the-gov-uk-prototype-kit-part-2/).
+I've used Github pages for one of my past side-projects: [**Practioner Stories**](https://stephanie-k.github.io/practitioner-stories/)
+I've used the GOVUK prototype kit to create a [**Digital Skill tool for the East Renfrewshire Council**](https://blog.chezleskrus.com/2020/08/01/improving-digital-skills-a-tool-using-the-gov-uk-prototype-kit-part-2/).
 
 💬 Ask me about it if you are interested.
 
-I also volunteer for [**Code Your Future**](https://codeyourfuture.io/) - check them out, it's a great organsiation, teaching code to refugees and disadvantaged people, maybe you can help too?
+I've also volunteered for [**Code Your Future**](https://codeyourfuture.io/) - check them out, it's a great organsiation, teaching code to refugees and disadvantaged people, maybe you can help too?
 
 
 <!--
